@@ -5,8 +5,8 @@ Founder and builder. I work across software, AI, games, and data — whatever th
 ## What I'm building
 
 - **Syndero** — a social music streaming platform built around an artist-controlled music economy: direct payments, discovery, and real fan relationships. Co-founder, Strive Technologies.
-- **Kynori** — an open-world companion exploration game. Babylon.js + TypeScript, Blender-authored 3D.
-- **Code Sonar** — deterministic code analysis: scoring, remediation, rescanning, and an AI assistant on top.
+- **Kynori** — an open-world companion exploration game, currently being rebuilt from scratch as **Kynori World**: one continuous storybook island, Fortnite-grade movement. Babylon.js + TypeScript, Blender-authored 3D.
+- **Code Sonar** — deterministic code analysis: scoring, guided remediation, rescanning, and an AI assistant on top. Live at [code-sonar.onrender.com](https://code-sonar.onrender.com).
 - **Rally** — a phone-first social fitness app: groups, challenges, wearables, leaderboards.
 
 ## Background
